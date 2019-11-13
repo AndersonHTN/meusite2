@@ -1,0 +1,9 @@
+Tag de imagem
+<img src="imagens/log.png" alt="descrição da imagem"/>
+
+Para forçar a exibiçã correta dos acentos, dentro da seção <head> colocar a tag meta 
+<meta charset="utf8">
+
+ver site w3school para fazer site
+
+css é uma planilha de estilos, ou decorações
