@@ -1,3 +1,7 @@
 
 document = é o conteúdo do body (representa)
 
+
+
+para conectar HTML e Java Script com Solidity, faz-se necessário ter uma interface, um protocolo para abrir canal de comunicação, diálogo.
+Esta interface chama-se ABI (instruções chamadas ABI) ABI é Interface em Java Script do Smart Contract
