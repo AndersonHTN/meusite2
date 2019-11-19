@@ -5,3 +5,5 @@ document = é o conteúdo do body (representa)
 
 para conectar HTML e Java Script com Solidity, faz-se necessário ter uma interface, um protocolo para abrir canal de comunicação, diálogo.
 Esta interface chama-se ABI (instruções chamadas ABI) ABI é Interface em Java Script do Smart Contract
+O remix fornece o ABI na janela de compilação, basta clicar no botão específico, sendo que o ABI é copiado para a área de transferência (memória). 
+O ABI é um interface de java script
