@@ -11,3 +11,11 @@ O ABI é um interface de java script
 
 É preciso unir: 1) provedor de conexão 2) interface, ABI, tudo que tem de público no smart contratc 3) o endereço do Smart Contract na rede Ethereum correspondente
 Tudo isto no ether JS
+
+Promises => 
+função()
+.then(função a ser chamada em caso de sucesso)
+      em geral aqui vem uma arrow function
+
+.catch(função a ser chamada em caso de errro
+        em geral arrow function também)
