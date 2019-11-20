@@ -19,3 +19,10 @@ função()
 
 .catch(função a ser chamada em caso de errro
         em geral arrow function também)
+
+
+
+para casa, feriado de 20 de novembro:
+criar uma div, um h3, um elemento que vai receber dentro dele o valor do aluquel, dando um id para ele. 
+criar uma outra promessa para pegar o valor do aluguel, cujo resultado retornado é o valor do aluguel. 
+dentro do seguro.html
