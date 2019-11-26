@@ -26,3 +26,8 @@ para casa, feriado de 20 de novembro:
 criar uma div, um h3, um elemento que vai receber dentro dele o valor do aluquel, dando um id para ele. 
 criar uma outra promessa para pegar o valor do aluguel, cujo resultado retornado é o valor do aluguel. 
 dentro do seguro.html
+
+
+function Xpto () {}    => função que não pede parâmetro
+Função Abs (uint256) {}   =>função que pede parâmetro
+
